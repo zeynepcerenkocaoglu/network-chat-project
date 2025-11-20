@@ -1,0 +1,55 @@
+
+============================================================
+Server Started: 2025-11-19 23:29:57
+============================================================
+[2025-11-19 23:30:17] SYSTEM | Alice@127.0.0.1 connected
+[2025-11-19 23:30:17] SYSTEM | Alice joined
+[2025-11-19 23:30:26] SYSTEM | Alice@127.0.0.1 disconnected
+[2025-11-19 23:30:26] SYSTEM | Alice left
+
+============================================================
+Server Started: 2025-11-19 23:36:23
+============================================================
+[2025-11-19 23:36:43] SYSTEM | Alice@127.0.0.1 connected
+[2025-11-19 23:36:43] SYSTEM | Alice joined
+[2025-11-19 23:37:07] SYSTEM | Bob@127.0.0.1 connected
+[2025-11-19 23:37:07] SYSTEM | Bob joined
+[2025-11-19 23:37:29] PUBLIC | Alice: merhaba bob nasılsın
+[2025-11-19 23:37:38] PUBLIC | Bob: merhaba alice iyiyim sen nasılsın
+[2025-11-19 23:38:09] PRIVATE | Alice -> Bob: merhaba bob ben alice bu benim sana gizli mesajımdır
+[2025-11-19 23:38:40] PRIVATE | Bob -> Alice: merhaba gizli mesajını aldım sıkıntı yok her şey doğru çalışıyor
+[2025-11-19 23:48:25] SYSTEM | Alice@127.0.0.1 disconnected
+[2025-11-19 23:48:25] SYSTEM | Alice left
+[2025-11-19 23:48:28] SYSTEM | Bob@127.0.0.1 disconnected
+[2025-11-19 23:48:28] SYSTEM | Bob left
+
+============================================================
+Server Started: 2025-11-19 23:48:53
+============================================================
+
+============================================================
+Server Started: 2025-11-19 23:54:18
+============================================================
+[2025-11-19 23:57:18] SYSTEM | Zeynep@127.0.0.1 connected
+[2025-11-19 23:57:18] SYSTEM | Zeynep joined
+[2025-11-19 23:57:27] SYSTEM | Ali@127.0.0.1 connected
+[2025-11-19 23:57:27] SYSTEM | Ali joined
+[2025-11-19 23:57:53] SYSTEM | Ahmet@127.0.0.1 connected
+[2025-11-19 23:57:53] SYSTEM | Ahmet joined
+[2025-11-19 23:58:52] PUBLIC | Ahmet: zeynep kardeşim nasılsın
+[2025-11-19 23:59:02] PUBLIC | Zeynep: iyiyim abicim sne nasılsın
+[2025-11-19 23:59:13] PUBLIC | Ali: Ahmet abi merhaba nasılsın
+[2025-11-19 23:59:26] PUBLIC | Ahmet: iyiym canlarım sağ olun
+[2025-11-20 00:00:19] PRIVATE | Zeynep -> Ali: ali selam nerdesin abime çaktırmadan doğum günü pastasını al gel
+[2025-11-20 00:00:55] PRIVATE | Ali -> Zeynep: tamamdır zeynep bende o iş. çikolatalı bir pasta alacağım uyar mı yer misiniz?
+[2025-11-20 00:01:12] PRIVATE | Zeynep -> Ali: evet evet uyar yeriz. çabuk ol çaktırma
+[2025-11-20 00:01:24] PRIVATE | Ali -> Zeynep: tamamdır. görüşürüz
+[2025-11-20 00:02:10] PUBLIC | Ahmet: akşam eve geç kalmayın hep beraber yiyelim yemeğimizi. görüşürüz akşam
+[2025-11-20 00:02:13] SYSTEM | Ahmet@127.0.0.1 disconnected
+[2025-11-20 00:02:13] SYSTEM | Ahmet left
+[2025-11-20 00:02:22] PUBLIC | Ali: tamamdır abi görüşürüz.
+[2025-11-20 00:02:25] SYSTEM | Ali@127.0.0.1 disconnected
+[2025-11-20 00:02:25] SYSTEM | Ali left
+[2025-11-20 00:02:39] PUBLIC | Zeynep: abi ben evdeyim zaten. görüşürüz akşam.
+[2025-11-20 00:02:49] SYSTEM | Zeynep@127.0.0.1 disconnected
+[2025-11-20 00:02:49] SYSTEM | Zeynep left

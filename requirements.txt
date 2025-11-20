@@ -1,0 +1,11 @@
+# Chat Project - Requirements
+# Python 3.8+ gereklidir
+
+# Core requirements (Python standard library'de mevcut)
+# - socket
+# - threading
+# - tkinter
+# - json
+# - datetime
+
+# Ek gereksinimler yok - tüm modüller Python standard library kullanıyor!

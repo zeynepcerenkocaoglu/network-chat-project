@@ -1,0 +1,48 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Configuration Module
+Tüm proje ayarlarını merkezi bir yerden yönetir
+"""
+
+# Server Ayarları
+SERVER_HOST = '127.0.0.1'
+SERVER_PORT = 5000
+HTTP_PORT = 8080
+WEBSOCKET_PORT = 8765
+
+# Rate Limiting Ayarları
+RATE_LIMIT_WINDOW = 5  # saniye
+RATE_LIMIT_MAX = 10    # mesaj sayısı
+SEVERE_LIMIT_WINDOW = 10  # saniye
+SEVERE_LIMIT_MAX = 15     # mesaj sayısı
+MUTE_DURATION = 30        # saniye
+
+# Log Ayarları
+LOG_FILE = "logs/chat_server.log"
+LOG_TIMESTAMP_FORMAT = '%Y-%m-%d %H:%M:%S'
+
+# GUI Ayarları
+GUI_WIDTH = 700
+GUI_HEIGHT = 550
+GUI_TITLE = "Chat Client"
+
+# Renkler
+COLOR_PRIMARY = "#2196F3"
+COLOR_SUCCESS = "#4CAF50"
+COLOR_WARNING = "#FF9800"
+COLOR_DANGER = "#F44336"
+COLOR_BACKGROUND = "#f5f5f5"
+COLOR_WHITE = "#FFFFFF"
+
+# Mesaj Tipleri
+MESSAGE_TYPE_PUBLIC = "PUBLIC"
+MESSAGE_TYPE_PRIVATE = "PRIVATE"
+MESSAGE_TYPE_SYSTEM = "SYSTEM"
+MESSAGE_TYPE_JOIN = "JOIN"
+MESSAGE_TYPE_LEAVE = "LEAVE"
+MESSAGE_TYPE_USER_LIST = "USER_LIST"
+MESSAGE_TYPE_WARNING = "WARNING"
+MESSAGE_TYPE_MUTE = "MUTE"
+MESSAGE_TYPE_KICK = "KICK"
+MESSAGE_TYPE_UNMUTE = "UNMUTE"
