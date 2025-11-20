@@ -57,3 +57,19 @@ Server Started: 2025-11-19 23:54:18
 ============================================================
 Server Started: 2025-11-20 22:49:41
 ============================================================
+
+============================================================
+Server Started: 2025-11-20 23:00:06
+============================================================
+[2025-11-20 23:00:41] SYSTEM | Thales@127.0.0.1 connected
+[2025-11-20 23:00:41] SYSTEM | Thales joined
+[2025-11-20 23:00:53] SYSTEM | Murad@127.0.0.1 connected
+[2025-11-20 23:00:53] SYSTEM | Murad joined
+[2025-11-20 23:01:52] PUBLIC | Murad: oğlum thales nerdesin
+[2025-11-20 23:02:08] PUBLIC | Thales: baba balkondayım. mama yiyorum sen nerdesin?
+[2025-11-20 23:02:31] PUBLIC | Murad: tamam oğlum eve geliyorum bende ödül maması almamı ister misin var mı evde
+[2025-11-20 23:02:52] PUBLIC | Thales: sağ ol baba istemiyorum. kilo yaptılar bu yüzden ödül mamasını azaltacağım biraz.
+[2025-11-20 23:05:39] SYSTEM | Murad@127.0.0.1 disconnected
+[2025-11-20 23:05:39] SYSTEM | Murad left
+[2025-11-20 23:05:40] SYSTEM | Thales@127.0.0.1 disconnected
+[2025-11-20 23:05:40] SYSTEM | Thales left
